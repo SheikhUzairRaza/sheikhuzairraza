@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/sheikhuzairraza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Fullstack+Engineer+at+Turingoid+LLC;Backend-Heavy+System+Architect;Frontend+%26+Mobile+Developer+(React%2C+Next.js%2C+React+Native);AI+%2F+ML+%2F+Deep+Learning+Fundamentals;GenAI+%26+Agentic+AI+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Fullstack+Engineer+at+Turingoid+LLC;Backend-Heavy+System+Architect;Frontend+%26+Mobile+Developer+(React%2C+Next.js%2C+React+Native);AI%2C+ML+%26+Deep+Learning+Fundamentals;GenAI+%26+Agentic+AI+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
