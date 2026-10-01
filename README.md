@@ -24,7 +24,7 @@
 
 # GitHub Streak:
 
-![](https://streak-stats.demolab.com/?user=sheikhuzairraza&theme=dark&hide_border=false&v=2)
+![](https://streak-stats.demolab.com/?user=sheikhuzairraza&theme=dark&hide_border=false&v=1)
 
 ---
 
